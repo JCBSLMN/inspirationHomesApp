@@ -1,4 +1,3 @@
-=======
 # Table of Contents
 - [Project Context](#project-context)
 - [Website description:](#website-description)
